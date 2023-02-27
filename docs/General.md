@@ -54,3 +54,4 @@
 将修改后的请求放行即可通过本题
 
 ![L1_P12](https://raw.githubusercontent.com/LS-King/WebGoat-Solution/main/pics/General/L1_P12.png)
+
